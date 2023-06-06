@@ -49,11 +49,6 @@ https://github.com/gsmalik030/hello-rails-backend
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-<!-- - [Live Demo](https://hello-rails-frontend.onrender.com)  -->
-N/A
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
